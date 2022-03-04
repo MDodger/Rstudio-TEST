@@ -1,1 +1,2 @@
-Test
+Test <- "Hello"
+print(Test)
